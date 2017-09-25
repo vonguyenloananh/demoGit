@@ -1,0 +1,15 @@
+﻿Build started 5/7/2017 8:49:37 PM.
+     1>Project "C:\Users\sony\Desktop\LuanVan\TinhThoiGian\TinhThoiGian\TinhThoiGian.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\TinhThoiGian.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\TuanTu\SoPiTuanTu\SoPi\SoPi.cpp
+         SoPi.cpp
+     1>c:\users\sony\desktop\luanvan\tuantu\sopituantu\sopi\sopi.cpp(3): warning C4627: '#include <conio.h>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\users\sony\desktop\luanvan\tuantu\sopituantu\sopi\sopi.cpp(4): warning C4627: '#include <math.h>': skipped when looking for precompiled header use
+                 Add directive to 'stdafx.h' or rebuild precompiled header
+     1>c:\users\sony\desktop\luanvan\tuantu\sopituantu\sopi\sopi.cpp(22): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+     1>Done Building Project "C:\Users\sony\Desktop\LuanVan\TinhThoiGian\TinhThoiGian\TinhThoiGian.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.10

@@ -1,0 +1,12 @@
+﻿Build started 5/30/2017 11:05:35 PM.
+     1>Project "C:\Users\sony\Desktop\LuanVan\TuanTu\SoPiTuanTu\SoPi\kiemtra.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt SoPi.cpp
+         SoPi.cpp
+     1>c:\users\sony\desktop\luanvan\tuantu\sopituantu\sopi\sopi.cpp(19): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+     1>c:\users\sony\desktop\luanvan\tuantu\sopituantu\sopi\sopi.cpp(20): error C4700: uninitialized local variable 'a' used
+     1>Done Building Project "C:\Users\sony\Desktop\LuanVan\TuanTu\SoPiTuanTu\SoPi\kiemtra.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.17
